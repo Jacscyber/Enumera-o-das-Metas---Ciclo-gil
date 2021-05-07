@@ -1,2 +1,2 @@
-# Enumera-o-das-Metas---Ciclo-gil
+# Estrutura do Ciclo Ágil
 Ferramentas Práticas pra Soluções no Ecommerce
